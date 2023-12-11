@@ -20,4 +20,4 @@ var veiculo = banco.conexao.define(
     }
 )
 
-module.exports = {veiculo}
+module.exports = {veiculo:veiculo}
